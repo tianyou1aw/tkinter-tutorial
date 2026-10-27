@@ -32,11 +32,13 @@ root.mainloop()
 
 Run this program like any other program. It should display a tiny window
 with the text `Hello World!` in it.
-```
-<img width="192" height="97" alt="Screenshot 2026-10-27 164243" src="https://github.com/user-attachments/assets/b2ed8409-e871-43d1-a42b-adf66b8c66f6" />
+
+![Basic reference to the above code](Screenshot%202026-10-27%20164243.png)
 
 
-```
+
+
+
 
 There are many things going on in this short code. Let's go through it
 line by line.
