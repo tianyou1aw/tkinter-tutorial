@@ -33,7 +33,8 @@ root.mainloop()
 Run this program like any other program. It should display a tiny window
 with the text `Hello World!` in it.
 ```
-<img width="192" height="97" alt="image" src="https://github.com/user-attachments/assets/31e127d0-2bbe-4754-81f2-51f93ee5cb09" />
+<img width="192" height="97" alt="Screenshot 2026-10-27 164243" src="https://github.com/user-attachments/assets/b2ed8409-e871-43d1-a42b-adf66b8c66f6" />
+
 
 ```
 
