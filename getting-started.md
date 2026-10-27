@@ -27,19 +27,14 @@ import tkinter
 root = tkinter.Tk()
 label = tkinter.Label(root, text="Hello World!")
 label.pack()
-root.mainloop()
+root.mainloop()  
 ```
 
 Run this program like any other program. It should display a tiny window
-with the text `Hello World!` in it. I'm way too lazy to take
-screenshots, so here's some ASCII art:
-
+with the text `Hello World!` in it.
 ```
-,------------------.
-| tk   | _ | o | X |
-|------------------|
-|   Hello World!   |
-`------------------'
+<img width="192" height="97" alt="image" src="https://github.com/user-attachments/assets/31e127d0-2bbe-4754-81f2-51f93ee5cb09" />
+
 ```
 
 There are many things going on in this short code. Let's go through it
